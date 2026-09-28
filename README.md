@@ -1,4 +1,4 @@
-# Proof Camera — Product Architecture & Delivery Case Study
+# Proof Camera App — Product Architecture & Delivery Case Study
 
 > **Independent Android product in active development**  
 > **Public case study — implementation source remains private**

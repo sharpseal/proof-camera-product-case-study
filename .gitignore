@@ -1,0 +1,22 @@
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Never place application source, build outputs, archives, or private evidence in this portfolio repo
+*.apk
+*.aab
+*.keystore
+*.jks
+*.zip
+*.tar
+*.tar.gz
+*.xlsx
+*.xls
+*.log
+*.kt
+*.java
+*.gradle
+*.kts
+local.properties

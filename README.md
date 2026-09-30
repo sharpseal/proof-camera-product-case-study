@@ -1,6 +1,6 @@
 # Proof Camera App — Product Architecture & Delivery Case Study
 
-> **Independent Android product in active development**  
+> **Independent Android product in development**  
 > **Public case study — implementation source remains private**
 
 Proof Camera explores a practical trust problem in mobile photography:
